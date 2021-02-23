@@ -1,7 +1,7 @@
 # Instagram Followers Scraper
 
 ## Overview
-This is python script to scrape instagram followers
+This is python script to scrape instagram followers.
 
 ## Requirement
 Python 3.6+
