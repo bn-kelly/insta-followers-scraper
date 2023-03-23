@@ -11,7 +11,7 @@ Python 3.6+
 ### Download
 
 ```
-$ git clone https://github.com/Eagle19243/instagram-followers-scraper.git
+$ git clone https://github.com/bn-kelly/instagram-followers-scraper.git
 ```
 
 ### Install chromedriver
